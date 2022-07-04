@@ -42,5 +42,5 @@ include device/qcom/sepolicy/SEPolicy.mk
 endif
 endif # Exclude QCOM SEPolicy
 else
-include device/qcom/sepolicy-legacy/SEPolicy.mk
+-include device/qcom/sepolicy-legacy/SEPolicy.mk
 endif
